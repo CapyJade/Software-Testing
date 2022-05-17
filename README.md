@@ -1,2 +1,11 @@
 # Software-Testing
-Optional Materials for NUIT students in software testing module
+Optional Materials for NUIT students in software testing module（双语)
+本材料是为NUIT软件测试课程的同学准备的可选择性材料，是中文版（自己翻译，可能会不准确），如果有精力可能会更新英文版本，预先设置的模块如下（持续更新）：
+## 📗 软件测试理论
+软件测试理论是整门课程的核心内容，它罗列了软件测试的原因和软件测试的理念，有助于培养思维和提高测试能力的完备性，我将会在这一节中的 introduction 部分以不同的角度来阐述软件测试的必要性和重要性。
+## 🌐 软件测试实例
+本章节将着重介绍基于JAVA的测试内容，在撰写完基于JAVA的测试内容之后我将介绍基于javascript等不同语言的测试实例，来让各位熟悉基于其他语言的测试实例。
+
+## 🚢 测试中使用的实例会相对较复杂，更接近于 real-world program
+此教程的最终形式将是为大家提供一个从前端到后端的测试教程以及讲解，不到之处请各位指正。
+祝各位能学到自己需要的东西。
